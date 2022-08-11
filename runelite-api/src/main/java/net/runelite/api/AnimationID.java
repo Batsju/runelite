@@ -46,6 +46,7 @@ public final class AnimationID
 	public static final int WOODCUTTING_DRAGON_OR = 24;
 	public static final int WOODCUTTING_INFERNAL = 2117;
 	public static final int WOODCUTTING_3A_AXE = 7264;
+	public static final int WOODCUTTING_ENT_TRUNK = 2116
 	public static final int WOODCUTTING_CRYSTAL = 8324;
 	public static final int WOODCUTTING_TRAILBLAZER = 8778; // Same animation as Infernal axe (or)
 	public static final int CONSUMING = 829; // consuming consumables
